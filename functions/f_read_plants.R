@@ -24,6 +24,7 @@ f_read_plants <- function(plant,id){
                            quiet = T)
     #select file of source folder for wished plant species
     ui_plant <- all_plants[grepl(plant,all_plants)]
+    ui_plant <- dplyr::last(ui_plant)
     #read
     plant_data <- data.table::fread(paste0(phenology_base,ui_plant))
   }

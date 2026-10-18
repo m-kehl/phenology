@@ -1,0 +1,12 @@
+name: phenology2
+title: phenology
+username: laubfrosch
+account: laubfrosch
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a14b21-85f7-60bb-e64a-a6f84b47476c
+bundleId:
+url: https://connect.posit.cloud/laubfrosch/content/01a14b21-85f7-60bb-e64a-a6f84b47476c
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

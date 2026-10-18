@@ -49,17 +49,21 @@ bundeslaender_coord <- data.frame(
 
 ## german names of all plant species for which phenological data are available at
 #    opendata.dwd.de
+
+## 2026.10: falscher Jasmin, Goldregen, Schneebeere, Weissdorn not available any longer
+## 2026.10: new plants available are Zweigriffliger_Weissdorn
 pflanzen_arten <- c("","Beifuss","Busch-Windroeschen","Eberesche","Esche",
-                    "Europaeische-Laerche","Falscher_Jasmin","",
-                    "Fichte","Flieder","Forsythie","Goldregen","Haenge-Birke",
+                    "Europaeische-Laerche",
+                    "Fichte","Flieder","Forsythie","Haenge-Birke",
                     "Hasel","Heidekraut","Herbstzeitlose","Huflattich",
                     "Hunds-Rose","Kiefer","Kornelkirsche","Loewenzahn",
                     "Robinie","Rosskastanie","Rotbuche","Sal-Weide","Schlehe",
-                    "Schneebeere","Schneegloeckchen","Schwarz-Erle",
+                    "Schneegloeckchen","Schwarz-Erle",
                     "Schwarzer_Holunder","Sommer-Linde","Spitz-Ahorn",
-                    "Stiel-Eiche","Tanne","Traubenkirsche","Weissdorn",
+                    "Stiel-Eiche","Tanne","Traubenkirsche",
                     "Wiesen-Fuchsschwanz",
-                    "Wiesen-Knaeuelgras","Winter-Linde")
+                    "Wiesen-Knaeuelgras","Winter-Linde",
+                    "Zweigriffliger_Weissdorn")
 
 ## all phase names (in german) and according phase ids for which phenological data are
 #    available at opendata.dwd.de

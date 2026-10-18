@@ -2,10 +2,11 @@
 #to the public by DWD (Deutscher Wetterdienst; opendata.dwd.de)
 #
 #20.02.2024 - ShinyApp created by m-kehl (mkehl.laubfrosch@gmail.com)
-#             code available via GitHub (https://github.com/m-kehl/weather_icond2)
+#             code available via GitHub (https://github.com/m-kehl/phenology)
+#18.10.2026 - complete overhaup with new layout and functionality
 #
 #This ShinyApp is belongs to the Laubfrosch project by m-kehl and is publicly
-#accessible via https://laubfrosch.shinyapps.io/weather-icond2/. The Laubfrosch
+#accessible via https://laubfrosch.shinyapps.io/phenology/. The Laubfrosch
 #project aims to show and explore the possibilities with OGD (open governmental data),
 #in example with its visualization or representation in a generally comprehensible format.
 

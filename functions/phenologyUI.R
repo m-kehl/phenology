@@ -43,8 +43,8 @@ phenologyUI <- function(id) {
             selectizeInput(
               inputId = NS(id,"station_name"),
               label = "Stationsname/n",
-              choices = c("Adelsreute"),
-              selected = c("Adelsreute"),
+              choices = c("Euskirchen"),
+              selected = c("Euskirchen"),
               multiple = TRUE),
             #copyright DWD
             f_copyright_DWD()
