@@ -36,11 +36,11 @@ a local installation might be favorable.
 
 The application provides the following functionality:
 
-- **[Phenology data]:** Laubfrosch_phenology visualizes phenology data (phenology phase vs years)
+- **Phenology data:** Laubfrosch_phenology visualizes phenology data (phenology phase vs years)
 for a choosen plant and measurement station.
-- **[Readability]:** It can additionally show the linear regression line of the plotted
+- **Readability:** It can additionally show the linear regression line of the plotted
 points and add helping lines for better readability.
-- **[Map]:** The map at the bottom shows the location of the chosen measurement stations.
+- **Map:** The map at the bottom shows the location of the chosen measurement stations.
 - **Interactive interface:** The user can choose the plant, phenology phase, and measurement stations
 for which the data is downloaded and visualized.
 
